@@ -1,5 +1,5 @@
 // Created by: Ava Venturino
-// Chreated on: Mar 2022
+// Created on: Mar 2022
 // 
 // This program does basic math
 
